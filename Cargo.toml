@@ -8,4 +8,6 @@ edition = "2018"
 
 [dependencies]
 color_quant = "1.0.1"
+image = "0.22.1"
+gif = "0.10.2"
 
